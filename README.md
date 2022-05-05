@@ -1,4 +1,8 @@
 # Universidad-Austral-Tesis-Maestria-Chest-X-Ray-Recognition
+ * Alumno: Gustavo Ayrton Bitocchi
+ * Director: Diego Alexis Evin
+ * Universidad Austral Cohorte 2020/21
+ * Trabajo Final de Maestría
 
 # Requisitos
 Conjunto de datos de entrenamiento y prueba.
