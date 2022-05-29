@@ -16,7 +16,7 @@ Se utilizo el framework de pytorch para la creacion y el entrenamiento de redes 
 
 ## Utilización
 
-### El directorio Arquitectura-CNN-Autogenerada-CGP contiene los siguientes 2 archivos:
+### El directorio Arquitectura-CNN-Autogenerada-CGP contiene los siguientes 3 archivos:
 
   * Generacion_Arquitectura_CNN_CGP_AWS_SageMaker.ipynb : Notebook que lleva a cabo un proceso CGP para la creacion automatica de una arquitectura CNN.
   * Entrenamiento_Arquitectura_Generada_CNN_CGP_AWS_SageMaker.ipynb : Notebook que entrena la arquitectura CNN autogenerada.
